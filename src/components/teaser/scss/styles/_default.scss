@@ -41,7 +41,8 @@
     }
 
     .cmp-teaser__title-link {
-        color: $teaser-dark-color;
+       //color: $teaser-dark-color;
+       color: $orange;
         &:after {
             content: none;
         }
